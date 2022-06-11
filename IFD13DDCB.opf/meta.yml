@@ -1,0 +1,31 @@
+id: IFD13DDCB
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:17:34.460312'
+last_modified: '2022-06-11T13:17:34.460317'
+parser: null
+source_metadata:
+  title: Yangthang Rinpoche Series
+  language: de
+  description: Texts by Domang Yangthang Rinpoche (mdo mang g.yang thang rin po che,
+    1929–2016), the renowned incarnation of Domang Dorje Dechen Lingpa (1857–1928).
+  volume:
+    f8466:
+      title: A Brief Presentation of View, Meditation and Action
+      base_file: f8466.txt
+      order: 1
+      parent: Advice
+    f6C77:
+      title: Prayer for the Flourishing of the Dzogchen Teachings of Sogyal Rinpoche,
+        the incarnation of Lerab Lingpa
+      base_file: f6C77.txt
+      order: 2
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
